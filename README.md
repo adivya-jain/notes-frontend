@@ -1,4 +1,4 @@
-Note Keeper App to keep personal Notes and link securely and safely at one place.
+Notes Keeper App to keep personal Notes and link securely and safely at one place.
 
 # Getting Started with Create React App
 
